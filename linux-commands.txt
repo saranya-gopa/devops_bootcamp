@@ -3,3 +3,8 @@ crontab -e
 yum -q
 yum -qd
 ls -al
+pwd
+Mkdir
+Grep
+Chmod
+Touch
