@@ -1,0 +1,5 @@
+whoami
+crontab -e
+yum -q
+yum -qd
+ls -al
