@@ -11,3 +11,10 @@ Touch
 init 0
 init 1
 ps aux
+useradd
+usermod
+groupadd
+Echo
+sudo
+man
+
