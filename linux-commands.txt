@@ -17,4 +17,8 @@ groupadd
 Echo
 sudo
 man
-
+tree
+ll
+npm install
+git -v
+git status
