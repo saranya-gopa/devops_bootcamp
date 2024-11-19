@@ -24,3 +24,6 @@ git -v
 git status
 yum install/remove/list
 systemctl start/stop/status/enable/disable 
+dnf
+ip addr
+ifconfig
