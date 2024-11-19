@@ -22,3 +22,5 @@ ll
 npm install
 git -v
 git status
+yum install/remove/list
+systemctl start/stop/status/enable/disable 
